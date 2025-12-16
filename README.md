@@ -218,3 +218,19 @@ yarn add @base-org/account
   1. Fork this repo and clone it
   1. From the root dir run `yarn install`
   1. From the root dir run `yarn dev`
+
+## 📦 Running the example app
+
+This repository includes an example/test app under `examples/testapp`.
+
+### Requirements
+
+- Node.js (v18+)
+- Yarn
+
+### Steps
+
+1. Install dependencies:
+
+```bash
+yarn install
